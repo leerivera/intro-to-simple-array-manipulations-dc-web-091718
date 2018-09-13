@@ -17,6 +17,6 @@ def using_unshift(array, string)
     new_neighborhood = "Brooklyn Heights"
    
   neighborhoods_in_northwest_brooklyn.unshift(new_neighborhood)
-     if new_neighborhood == neighborhoods_in_northwest_brooklyn do each
+     
 
 end
